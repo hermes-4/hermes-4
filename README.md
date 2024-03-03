@@ -19,7 +19,8 @@ I'm embarking on a journey to become a full-stack developer fueled by my passion
 |     4| MongoDB   |
 |     5| EXPRESS JS|
 |     6| REACT     |
-|     7| GIT       |
+|     7| REACT-NATIVE   |
+|     8| GIT       |
 
   </details>
  
