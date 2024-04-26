@@ -25,9 +25,9 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 |     4| MONGODB   |
 |     5| EXPRESS JS|
 |     6| REACT     |
-|     7| REACT-NATIVE   |
+|     7| DJANGO |
 |     8| GIT       |
-|     9| DJANGO|
+
 
   </details>
  
