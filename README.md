@@ -4,14 +4,11 @@
 
 -----------
 
-I'm excited to have you here!
-
-I'm a young and passionate techie, and I love collaborating on projects that are full of adventures(every project is an adventure 😄).
-
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or want to chat. Let's build something amazing together! 💼✨
 
 ------------
 
+<!--
 ## Skills
 
   <details open>
@@ -30,10 +27,10 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 
   </details>
- 
+ -->
 
 
-### 📫 How to reach me - ebenezeroforia08@gmail.com
+### 📫 Reach me via ebenezeroforia08@gmail.com
 <!--
 **hermes-4/hermes-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
